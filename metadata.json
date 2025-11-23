@@ -1,0 +1,7 @@
+{
+  "name": "Makan Where?",
+  "description": "A fun lunch decision maker for Singapore that suggests nearby food spots or lets you spin a wheel to decide.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
