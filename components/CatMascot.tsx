@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const CatMascot = ({ className = "" }: { className?: string }) => {
   return (
     <svg 
